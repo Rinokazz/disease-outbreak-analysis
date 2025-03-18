@@ -41,7 +41,7 @@ The dataset contains information on disease outbreaks, including:
 ## How to Run the Code
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/Disease-Outbreak-Analysis.git
+   git clone https://github.com/Rinokazz/Disease-Outbreak-Analysis.git
    ```
 2. Install required libraries:
    ```bash
